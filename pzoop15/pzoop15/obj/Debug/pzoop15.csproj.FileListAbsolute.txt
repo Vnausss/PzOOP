@@ -1,0 +1,10 @@
+C:\Users\alexe\source\repos\pzoop15\pzoop15\bin\Debug\pzoop15.exe.config
+C:\Users\alexe\source\repos\pzoop15\pzoop15\bin\Debug\pzoop15.exe
+C:\Users\alexe\source\repos\pzoop15\pzoop15\bin\Debug\pzoop15.pdb
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.csproj.AssemblyReference.cache
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.Form1.resources
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.Properties.Resources.resources
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.csproj.GenerateResource.cache
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.exe
+C:\Users\alexe\source\repos\pzoop15\pzoop15\obj\Debug\pzoop15.pdb
